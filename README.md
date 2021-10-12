@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm María 👋🏼</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">An architect and passionate frontend developer from Argentina</h3>
 
 
 
